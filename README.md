@@ -19,3 +19,5 @@ Natural Language Process에 대한 스터디 모임 및 학회
 # 📚 Readings
 
 [Required Texts](https://www.notion.so/f3f2e77845274beb8945870ca29d7452)
+
+# 🕹📟 Contest
