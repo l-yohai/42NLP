@@ -2,7 +2,7 @@
 
 [Notion](https://www.notion.so/Syllabus-7ac4db2ed0704ae882235614abbbb9b1)
 
-모든 기록은 노션으로.
+모든 기록은 노션에서.
 
 # 📜 Course Description
 
